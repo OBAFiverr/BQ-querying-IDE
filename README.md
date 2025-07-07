@@ -1,4 +1,4 @@
-# Querying BQ Through the IDEA - A Guide
+# Querying BQ Through the IDE - A Guide
 
 This document provides comprehensive instructions for setting up all that is needed to run queries via your IDE.
 
